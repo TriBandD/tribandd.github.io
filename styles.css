@@ -26,7 +26,7 @@ nav .navigation-container ul li{
 
 /*LINKS*/
 a{
- color: #ADEBB3;
+ color: #491A00;
 }
 
 a:visited{
@@ -92,7 +92,7 @@ h2{
   text-align: left;
   margin-top: 50px;
   font-size: 35px;
-  background-color: #FFF1E0;
+  background-color: #FFF1ED;
   margin-bottom: -25px;
   margin-top: 100px;
   color: #2F1A00;
@@ -122,7 +122,7 @@ figcaption{
 
 html{
   height: 100%;
-  background-color: #2F1A00;
+  background-color: #FFF1ED;
 }
 
 body{
@@ -147,5 +147,5 @@ footer{
 .footerp{
    text-align: left;
    font-size: 15px;
-   color: #FFF1E0;
+   color: #FFF1ED;
 }
