@@ -1,3 +1,9 @@
+header{
+   padding: 10px;
+   margin-bottom: 5px;
+   background-color: #491A00;
+}
+
 /*Navigation menu*/
 nav{
   max-width: 1200px;
@@ -141,7 +147,7 @@ body{
 footer{
    padding: 10px;
    margin-bottom: 5px;
-   color: #491A00;
+   background-color: #491A00;
 }
 
 .footerp{
