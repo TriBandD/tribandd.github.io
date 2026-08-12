@@ -30,15 +30,15 @@ a{
 }
 
 a:visited{
-  color: grey;
+  color: #453531;
 }
 
 a:hover{
-  color: #ADEBB3;
+  color: #6E554E;
 }
 
 a:active{
-  color: #ADEBB3;
+  color: #491A00;
 }
 
 nav .navigation-container ul li a{
@@ -52,7 +52,7 @@ nav .navigation-container ul li a{
 
 h1{
   font-size: 46px;
-  color: rgb(255, 255, 255);
+  color: #2F1A00;
   margin-left: 25px;
   margin-right: 25px;
   margin-bottom: 35px;
@@ -92,17 +92,17 @@ h2{
   text-align: left;
   margin-top: 50px;
   font-size: 35px;
-  background-color: #1F2527;
+  background-color: #FFF1E0;
   margin-bottom: -25px;
   margin-top: 100px;
-  color: rgb(255, 255, 255);
+  color: #2F1A00;
 }
 
 p{
   font-size: 25px;
   margin-top: -25px;
   background-color: #1F2527;
-  color: rgb(255, 255, 255);
+  color: #2F1A00;
 }
 
 .extra{
@@ -117,17 +117,17 @@ figcaption{
   margin-bottom: 20px;
   font-size: 12px;
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: #491A00;
  }
 
 html{
   height: 100%;
-  background-color: #1F2527;
+  background-color: #2F1A00;
 }
 
 body{
   height: 100%;
-  background-color: #1F2527;
+  background-color: #2F1A00;
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -141,11 +141,11 @@ body{
 footer{
    padding: 10px;
    margin-bottom: 5px;
-   color: rgb(255, 255, 255);
+   color: #491A00;
 }
 
 .footerp{
-   text-align: center;
+   text-align: left;
    font-size: 15px;
-   color: rgb(255, 255, 255);
+   color: #FFF1E0;
 }
