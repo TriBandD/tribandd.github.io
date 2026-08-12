@@ -52,7 +52,7 @@ nav .navigation-container ul li a{
 
 h1{
   font-size: 46px;
-  color: #2F1A00;
+  color: #FFF1ED;
   margin-left: 25px;
   margin-right: 25px;
   margin-bottom: 35px;
@@ -95,14 +95,14 @@ h2{
   background-color: #FFF1ED;
   margin-bottom: -25px;
   margin-top: 100px;
-  color: #2F1A00;
+  color: #2F1B00;
 }
 
 p{
   font-size: 25px;
   margin-top: -25px;
-  background-color: #1F2527;
-  color: #2F1A00;
+  background-color: #FFF1ED;
+  color: #2F1B00;
 }
 
 .extra{
@@ -127,7 +127,7 @@ html{
 
 body{
   height: 100%;
-  background-color: #2F1A00;
+  background-color: #FFF1ED;
   font-family: "Times New Roman", Times, serif;
 }
 
