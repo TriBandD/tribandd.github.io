@@ -153,11 +153,13 @@ footer{
 .footerp{
    text-align: left;
    font-size: 15px;
+   background-color: #491A00;
    color: #FFF1ED;
 }
 
 .footerh3{
    text-align: left;
    font-size: 20px;
+   background-color: #491A00;
    color: #FFF1ED;
 }
