@@ -1,4 +1,5 @@
-/*Figure out why there's space on the sides between the header and footer and the rest of the page.  Also want to make the footer wider, like on our other sites.
+/*Figure out why there's space on the sides between the header and footer and the rest of the page.  
+Also want to make the footer wider, like on our other sites.
 Also change the color of the links, because they're too close to the header bg color.
 Also darken the header and footer colors.
 Also find out how to not make the body text fall over onto the header.*/
@@ -7,7 +8,6 @@ header{
    /*margin-bottom: 25px;
    margin-right: 25px;
    margin-left: 25px;*/
-   color: #FFF1ED;
    background-color: #491A00;
 }
 
@@ -37,6 +37,16 @@ nav .navigation-container ul li{
   margin: 0px;
 }
 
+nav .navigation-container ul li a{
+  text-decoration: none:
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  font-style: italic;
+  padding: 10px 5px;
+}
+
+
 /*LINKS*/
 a{
  color: #D7A99A;
@@ -54,51 +64,16 @@ a:active{
   color: #D7A99A;
 }
 
-nav .navigation-container ul li a{
-  text-decoration: none:
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 16px;
-  font-style: italic;
-  padding: 10px 5px;
-}
 
+
+
+/*HEADINGS*/
 h1{
   font-size: 46px;
   color: #2F1B00;
   margin-left: 25px;
   margin-right: 25px;
   margin-bottom: 35px;
-}
-
-img{
-  width: 100%;
- }
-
-
-/*.rows{
-  display: flex;
-  background-color: #1F2527;
-}
-
-.column{
-  flex: 33.33%;
-  padding: 5px;
-  background-color: DarkSlateGray;
-}*/
-
-/*Three image containers (use 25% for four, and 50% for two, etc (w3schools.com)*/
-.column{
-  float: left;
-  width: 33.33%;
-  padding: 5xp;
-}
-
-/*Clear floats after image containers (w3schools.com)*/
-.rows::after{
-  content: "";
-  clear: both;
-  display: table;
 }
 
 h2{
@@ -111,6 +86,13 @@ h2{
   color: #2F1B00;
 }
 
+.subheading{
+  margin-top: 50px;
+}
+
+
+
+/*BODY TEXT*/
 p{
   font-size: 25px;
   margin-top: -25px;
@@ -118,13 +100,17 @@ p{
   color: #2F1B00;
 }
 
-.extra{
-   margin-top: 25px;
+body{
+  height: 50%;
+  background-color: #FFF1ED;
+  font-family: "Times New Roman", Times, serif;
 }
 
-video{
+
+/*MEDIA*/
+img{
   width: 100%;
-}
+ }
 
 figcaption{
   margin-bottom: 20px;
@@ -133,24 +119,12 @@ figcaption{
   color: #491A00;
  }
 
-/*html{
-  height: 50%;
-  background-color: #FFF1ED;
-}*/
-
-body{
-  height: 50%;
-  background-color: #FFF1ED;
-  font-family: "Times New Roman", Times, serif;
-}
-
-.subheading{
-  margin-top: 50px;
+video{
+  width: 100%;
 }
 
 
 /*FOOTER*/
-
 footer{
    padding: 20px;
    /*margin-bottom: 0px;
@@ -172,3 +146,31 @@ footer{
    background-color: #491A00;
    color: #FFF1ED;
 }
+
+
+
+/*Three image containers (use 25% for four, and 50% for two, etc (w3schools.com)
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 5xp;
+}
+
+Clear floats after image containers (w3schools.com)
+.rows::after{
+  content: "";
+  clear: both;
+  display: table;
+}*/
+
+
+/*.extra{
+   margin-top: 25px;
+}*/
+
+
+/*html{
+  height: 50%;
+  background-color: #FFF1ED;
+}*/
+
