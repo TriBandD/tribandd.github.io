@@ -102,7 +102,7 @@ h2{
 /*BODY TEXT*/
 p{
   font-size: 25px;
-  margin-top: -25px;
+  margin-top: 25px;
   background-color: #FFF1ED;
   color: #2F1B00;
 }
