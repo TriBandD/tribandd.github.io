@@ -1,8 +1,10 @@
 /*Figure out why there's space on the sides between the header and footer and the rest of the page.  
-Also want to make the footer wider, like on our other sites.
-Also change the color of the links, because they're too close to the header bg color.
-Also darken the header and footer colors.
-Also find out how to not make the body text fall over onto the header.*/
+--Also want to make the footer wider, like on our other sites.--
+--Also change the color of the links, because they're too close to the header bg color.--
+--Also darken the header and footer colors.--
+--Also find out how to not make the body text fall over onto the header.--
+Find out how to make the columns have more space between them.*/
+
 header{
    padding: 20px;
    /*margin-bottom: 25px;
