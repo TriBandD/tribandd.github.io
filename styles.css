@@ -8,13 +8,13 @@ header{
    /*margin-bottom: 25px;
    margin-right: 25px;
    margin-left: 25px;*/
-   background-color: #280800;
+   background-color: #2F0900; /*darkest color*/
 }
 
 .headerh1{
    text-align: left;
    font-size: 46px;
-   background-color: #280800;
+   background-color: #2F0900; /*darkest color*/
    color: #FFF1ED;
 }
 
@@ -137,20 +137,20 @@ footer{
    /*margin-bottom: 0px;
    margin-right: 0px;
    margin-left: 0px;*/
-   background-color: #280800;
+   background-color: #2F0900; /*darkest color*/
 }
 
 .footerp{
    text-align: left;
    font-size: 15px;
-   background-color: #280800;
+   background-color: #2F0900; /*darkest color*/
    color: #FFF1ED;
 }
 
 .footerh3{
    text-align: left;
    font-size: 20px;
-   background-color: #280800;
+   background-color: #2F0900; /*darkest color*/
    color: #FFF1ED;
 }
 
