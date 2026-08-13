@@ -6,7 +6,8 @@ header{
    padding: 20px;
    /*margin-bottom: 25px;
    margin-right: 25px;
-   margin-left: 25px;*/  
+   margin-left: 25px;*/
+   color: #FFF1ED;
    background-color: #491A00;
 }
 
@@ -38,11 +39,11 @@ nav .navigation-container ul li{
 
 /*LINKS*/
 a{
- color: #491A00;
+ color: #D7A99A;
 }
 
 a:visited{
-  color: #453531;
+  color: #F2CCBF;
 }
 
 a:hover{
@@ -50,7 +51,7 @@ a:hover{
 }
 
 a:active{
-  color: #491A00;
+  color: #D7A99A;
 }
 
 nav .navigation-container ul li a{
