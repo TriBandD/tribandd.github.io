@@ -154,30 +154,31 @@ footer{
    color: #FFF1ED;
 }
 
+/*COLUMNS*/
+/*From educative.io - https://www.educative.io/answers/how-to-create-columns-in-html*/
+   {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns */
+    .column {
+    float: left;
+    }
 
+    /* Set width length for the left, right and middle columns */
+    .left {
+    width: 33%;
+    }
 
-/*Three image containers (use 25% for four, and 50% for two, etc (w3schools.com)
-.column{
-  float: left;
-  width: 33.33%;
-  padding: 5xp;
-}
+    .middle {
+    width: 33%;
+    }
+    
+    .right {
+    width: 33%;
+    }
 
-Clear floats after image containers (w3schools.com)
-.rows::after{
-  content: "";
-  clear: both;
-  display: table;
-}*/
-
-
-/*.extra{
-   margin-top: 25px;
-}*/
-
-
-/*html{
-  height: 50%;
-  background-color: #FFF1ED;
-}*/
-
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
