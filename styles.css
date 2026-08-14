@@ -168,15 +168,15 @@ footer{
 
     /* Set width length for the left, right and middle columns */
     .left {
-    width: 33%;
+    width: 50%;
     }
 
-    .middle {
+    /*.middle {
     width: 33%;
-    }
+    }*/
     
     .right {
-    width: 33%;
+    width: 50%;
     }
 
     .row:after {
