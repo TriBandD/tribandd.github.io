@@ -95,6 +95,16 @@ h2{
   color: #2F1B00;
 }
 
+h2{
+  text-align: left;
+  margin-top: 30px;
+  font-size: 25px;
+  background-color: #FFF1ED;
+  margin-bottom: 25px;
+  margin-top: 50px;
+  color: #2F1B00;
+}
+
 .subheading{
   margin-top: 50px;
 }
