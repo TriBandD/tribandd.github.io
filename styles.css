@@ -20,6 +20,11 @@ header{
    color: #FFF1ED;
 }
 
+h2.centered
+{
+  text-align:center;
+}
+
 /*Navigation menu*/
 nav{
   max-width: 1200px;
@@ -125,10 +130,7 @@ body{
   font-family: "Times New Roman", Times, serif;
 }
 
-p.centered
-{
-  text-align:center;
-}
+
 
 /*MEDIA*/
 img{
