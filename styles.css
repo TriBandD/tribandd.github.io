@@ -125,6 +125,10 @@ body{
   font-family: "Times New Roman", Times, serif;
 }
 
+p.centered
+{
+  text-align:center;
+}
 
 /*MEDIA*/
 img{
